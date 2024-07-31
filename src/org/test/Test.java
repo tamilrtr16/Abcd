@@ -7,5 +7,10 @@ public class Test {
 		System.out.println("This is git demo");
 
 	}
+	public void payment() {
+		
+		System.out.println("This is Tamil's workspace");
+
+	}	
 
 }
